@@ -1,0 +1,21 @@
+.item{
+    width: 200px;
+    float: left;
+    background: #fff;
+    margin: 0 2%;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 42px;
+    padding: 80px 0;
+    font-weight: bold;
+    box-shadow: inset 0 0 10px 5px rgba(0,0,0,0.3);
+    color: #ccc;
+    cursor: pointer;
+}
+
+.boa{
+    box-shadow: 0 0 7px 6px rgba(0,248,7,0.5);
+    background: #08f807;
+    color: #0eaf0e;
+    text-shadow: 1px 1px 5px rgba (255,255, 255,1);
+}
